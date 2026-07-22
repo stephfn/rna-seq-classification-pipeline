@@ -2,7 +2,7 @@
 # 🧬 High-Dimensional RNA-Seq Classification & Feature Selection Pipeline
 
 ## Overview
-In high-dimensional transcriptomics ($P \gg N$), high feature noise can easily cause standard classification models to collapse toward random guessing. This project establishes an end-to-end Python pipeline to benchmark baseline probabilistic classifiers, regularized estimators ($L_1$/$L_2$), and non-linear tree ensembles across noisy vs. feature-selected expression spaces.
+In high-dimensional transcriptomics (P >> N), high feature noise can easily cause standard classification models to collapse toward random guessing. This project establishes an end-to-end Python pipeline to benchmark baseline probabilistic classifiers, regularized estimators (L1/L2), and non-linear tree ensembles across noisy vs. feature-selected expression spaces.
 
 ---
 

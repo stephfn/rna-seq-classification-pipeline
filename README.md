@@ -82,8 +82,6 @@ Open `Notebooks/synthetic_gene_feature_classification.ipynb` and select **Run Al
 
 The notebook generates its own synthetic dataset, so no external data download is required.
 
-**Note:** The corrected notebook is currently on the `rna-seq-cleanup` branch. The `main` branch will contain these updates after the cleanup pull request is merged.
-
 ---
 
 ## Limitations and Future Work
